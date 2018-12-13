@@ -1,0 +1,11 @@
+C:\Users\taylo\source\repos\AWSLambda1\AWSLambda1\bin\Debug\netcoreapp2.1\StudentMarketPlace.deps.json
+C:\Users\taylo\source\repos\AWSLambda1\AWSLambda1\bin\Debug\netcoreapp2.1\StudentMarketPlace.runtimeconfig.json
+C:\Users\taylo\source\repos\AWSLambda1\AWSLambda1\bin\Debug\netcoreapp2.1\StudentMarketPlace.runtimeconfig.dev.json
+C:\Users\taylo\source\repos\AWSLambda1\AWSLambda1\bin\Debug\netcoreapp2.1\StudentMarketPlace.dll
+C:\Users\taylo\source\repos\AWSLambda1\AWSLambda1\obj\Debug\netcoreapp2.1\StudentMarketPlace.csprojAssemblyReference.cache
+C:\Users\taylo\source\repos\AWSLambda1\AWSLambda1\obj\Debug\netcoreapp2.1\StudentMarketPlace.csproj.CoreCompileInputs.cache
+C:\Users\taylo\source\repos\AWSLambda1\AWSLambda1\obj\Debug\netcoreapp2.1\StudentMarketPlace.AssemblyInfoInputs.cache
+C:\Users\taylo\source\repos\AWSLambda1\AWSLambda1\obj\Debug\netcoreapp2.1\StudentMarketPlace.AssemblyInfo.cs
+C:\Users\taylo\source\repos\AWSLambda1\AWSLambda1\bin\Debug\netcoreapp2.1\StudentMarketPlace.pdb
+C:\Users\taylo\source\repos\AWSLambda1\AWSLambda1\obj\Debug\netcoreapp2.1\StudentMarketPlace.dll
+C:\Users\taylo\source\repos\AWSLambda1\AWSLambda1\obj\Debug\netcoreapp2.1\StudentMarketPlace.pdb
